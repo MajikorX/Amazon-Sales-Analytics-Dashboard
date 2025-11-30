@@ -36,7 +36,7 @@ The report analyzes a single month of Amazon product data and focuses on:
 - `assets/overview.png` – Screenshot of Overview page  
 - `assets/drivers.png` – Screenshot of Drivers page  
 - `assets/product-deep-dive.png` – Screenshot of Product Deep Dive page  
-- `docs/Amazon_Sales_Dashboard_Visualization_Steps.docx` – (Optional) Documentation of build steps
+- `docs/Amazon_Sales_Dashboard_Visualization_Steps.docx` –  Documentation of build steps
 
 ---
 
