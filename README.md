@@ -207,7 +207,7 @@ This page is intentionally kept **very simple**: one image, a few KPIs, and a cl
 
 ## 👤 Author
 
-- **Name:** _[Your Name]_  
+- **Name:** _[إYoussef Kamal El Deen]_  
 - **Role:** Data Analyst / BI Developer  
 - **Tools:** Power BI, DAX, Data Modeling, Dashboard Design  
 
